@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="23742">risc* v :facetid:streamid:\"conf/micro\":*</query>
+<status code="200">OK</status>
+<time unit="msecs">100.41</time>
+<completions total="1" computed="1" sent="1">
+<c sc="8" dc="8" oc="8" id="40401839">:facetid:streamid:conf/micro:MICRO</c>
+</completions>
+<hits total="8" computed="8" sent="8" first="0">
+<hit score="5" id="1863309">
+<info><authors><author pid="208/8224">Lucas Morais</author><author pid="250/9041">Vitor Silva</author><author pid="g/AlfredoGoldman">Alfredo Goldman</author><author pid="72/4572">Carlos Álvarez 0001</author><author pid="180/6658">Jaume Bosch</author><author pid="42/4902-8">Michael Frank 0008</author><author pid="a/GuidoAraujo">Guido Araujo</author></authors><title>Adding Tightly-Integrated Task Scheduling Acceleration to a RISC-V Multi-core Processor.</title><venue>MICRO</venue><pages>861-872</pages><year>2019</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/micro/MoraisSG0BFA19</key><doi>10.1145/3352460.3358271</doi><ee>https://doi.org/10.1145/3352460.3358271</ee><url>https://dblp.org/rec/conf/micro/MoraisSG0BFA19</url></info>
+<url>URL#1863309</url>
+</hit>
+<hit score="4" id="998246">
+<info><authors><author pid="19/9807">Vasileios Tsoutsouras</author><author pid="263/9760">Orestis Kaparounakis</author><author pid="263/9807">Bilgesu Arif Bilgin</author><author pid="268/8146">Chatura Samarakoon</author><author pid="256/5166">James Timothy Meech</author><author pid="304/0495">Jan Heck</author><author pid="72/4861">Phillip Stanley-Marbell</author></authors><title>The Laplace Microarchitecture for Tracking Data Uncertainty and Its Implementation in a RISC-V Processor.</title><venue>MICRO</venue><pages>1254-1269</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/micro/TsoutsourasKBSM21</key><doi>10.1145/3466752.3480131</doi><ee>https://doi.org/10.1145/3466752.3480131</ee><url>https://dblp.org/rec/conf/micro/TsoutsourasKBSM21</url></info>
+<url>URL#998246</url>
+</hit>
+<hit score="3" id="537459">
+<info><authors><author pid="76/10563">Yinan Xu</author><author pid="158/9996">Zihao Yu</author><author pid="38/5641">Dan Tang</author><author pid="275/4001">Guokai Chen</author><author pid="69/157">Lu Chen</author><author pid="332/1604">Lingrui Gou</author><author pid="57/2622">Yue Jin</author><author pid="332/1899">Qianruo Li</author><author pid="09/1365">Xin Li</author><author pid="332/2071">Zuojun Li</author><author pid="183/4389">Jiawei Lin</author><author pid="36/5558">Tong Liu</author><author pid="04/2793">Zhigang Liu</author><author pid="332/1767">Jiazhan Tan</author><author pid="322/7924">Huaqiang Wang</author><author pid="197/6691">Huizhe Wang</author><author pid="332/2334">Kaifan Wang</author><author pid="265/8205">Chuanqi Zhang</author><author pid="301/9446">Fawang Zhang</author><author pid="133/0325">Linjuan Zhang</author><author pid="85/10207">Zifei Zhang</author><author pid="122/0269">Yangyang Zhao</author><author pid="243/1635">Yaoyang Zhou</author><author pid="330/2590">Yike Zhou</author><author pid="332/1534">Jiangrui Zou</author><author pid="27/10805">Ye Cai</author><author pid="13/3699">Dandan Huan</author><author pid="34/4803">Zusong Li</author><author pid="332/1917">Jiye Zhao</author><author pid="130/7673">Zihao Chen</author><author pid="20/6417">Wei He</author><author pid="332/1689">Qiyuan Quan</author><author pid="68/6399">Xingwu Liu</author><author pid="42/8496">Sa Wang</author><author pid="80/7134">Kan Shi</author><author pid="23/6324">Ninghui Sun</author><author pid="08/6937">Yungang Bao</author></authors><title>Towards Developing High Performance RISC-V Processors Using Agile Methodology.</title><venue>MICRO</venue><pages>1178-1199</pages><year>2022</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/micro/XuYTCCGJLLLLLLT22</key><doi>10.1109/MICRO56248.2022.00080</doi><ee>https://doi.org/10.1109/MICRO56248.2022.00080</ee><url>https://dblp.org/rec/conf/micro/XuYTCCGJLLLLLLT22</url></info>
+<url>URL#537459</url>
+</hit>
+<hit score="3" id="998212">
+<info><authors><author pid="322/6789">Haonan Li 0009</author><author pid="57/10219">Weijie Huang</author><author pid="322/6483">Mingde Ren</author><author pid="64/6723">Hongyi Lu</author><author pid="47/8535">Zhenyu Ning</author><author pid="59/5565">Heming Cui</author><author pid="20/11242">Fengwei Zhang</author></authors><title>A Novel Memory Management for RISC-V Enclaves.</title><venue>HASP@MICRO</venue><pages>3:1-3:9</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/micro/LiHRLNCZ21</key><doi>10.1145/3505253.3505257</doi><ee>https://doi.org/10.1145/3505253.3505257</ee><url>https://dblp.org/rec/conf/micro/LiHRLNCZ21</url></info>
+<url>URL#998212</url>
+</hit>
+<hit score="3" id="998243">
+<info><authors><author pid="259/2689">Blaise Tine</author><author pid="257/6724">Krishna Praveen Yalamarthy</author><author pid="259/2349">Fares Elsabbagh</author><author pid="87/5743">Hyesoon Kim</author></authors><title>Vortex: Extending the RISC-V ISA for GPGPU and 3D-Graphics.</title><venue>MICRO</venue><pages>754-766</pages><year>2021</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/micro/TineYEK21</key><doi>10.1145/3466752.3480128</doi><ee>https://doi.org/10.1145/3466752.3480128</ee><url>https://dblp.org/rec/conf/micro/TineYEK21</url></info>
+<url>URL#998243</url>
+</hit>
+<hit score="3" id="1436739">
+<info><authors><author pid="220/1172">Ben Marshall</author><author pid="p/DanPage">Daniel Page</author><author pid="227/2189">Thinh Hung Pham</author></authors><title>Implementing the Draft RISC-V Scalar Cryptography Extensions.</title><venue>HASP@MICRO</venue><pages>1:1-1:8</pages><year>2020</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/micro/MarshallPP20</key><doi>10.1145/3458903.3458904</doi><ee>https://doi.org/10.1145/3458903.3458904</ee><url>https://dblp.org/rec/conf/micro/MarshallPP20</url></info>
+<url>URL#1436739</url>
+</hit>
+<hit score="3" id="2249977">
+<info><authors><author pid="194/7929">Mostafa Khamis</author><author pid="141/5031">Sameh El-Ashry</author><author pid="42/10697">Ahmed Shalaby 0001</author><author pid="123/8927">Mohamed Abdelsalam</author><author pid="17/914">M. Watheq El-Kharashi</author></authors><title>A Configurable RISC-V for NoC-Based MPSoCs: A Framework for Hardware Emulation.</title><venue>NoCArc@MICRO</venue><pages>1-6</pages><year>2018</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/micro/KhamisESAE18</key><doi>10.1109/NOCARC.2018.8541158</doi><ee>https://doi.org/10.1109/NOCARC.2018.8541158</ee><url>https://dblp.org/rec/conf/micro/KhamisESAE18</url></info>
+<url>URL#2249977</url>
+</hit>
+<hit score="3" id="6488069">
+<info><authors><author pid="24/634">David Bernstein</author><author pid="62/6734">Doron Cohen</author><author pid="77/4502">Yuval Lavon</author><author pid="76/5967">Vladimir Rainish</author></authors><title>Performance evaluation of instruction scheduling on the IBM RISC System/6000.</title><venue>MICRO</venue><pages>226-235</pages><year>1992</year><type>Conference and Workshop Papers</type><access>closed</access><key>conf/micro/BernsteinCLR92</key><doi>10.1109/MICRO.1992.697024</doi><ee>https://doi.org/10.1109/MICRO.1992.697024</ee><url>https://dblp.org/rec/conf/micro/BernsteinCLR92</url></info>
+<url>URL#6488069</url>
+</hit>
+</hits>
+</result>
