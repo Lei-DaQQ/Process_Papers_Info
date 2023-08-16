@@ -1,4 +1,7 @@
 *.un~
 *.xml
 *.xlsx
-./papers/*
+papers/*
+!papers/.gitkeep
+bibs/*
+!bibs/.gitkeep
